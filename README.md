@@ -11,3 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazuki-saito803&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazuki-saito803&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazuki-saito803&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuki-saito803&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki-saito803&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
