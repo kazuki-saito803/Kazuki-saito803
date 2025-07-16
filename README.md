@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,kubernetes,python,fastapi,flask,docker,terraform,azure" />
 <br>
+
+## Projects
+
+### [agent_discussion](https://github.com/kazuki-saito803/agent_discussion.git)
+Description of the project. What it does, main features, and technologies used.
+### [hiohachiman web site](https://www.hiohachiman.jp)
+Description of the project. What it does, main features, and technologies used.
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
