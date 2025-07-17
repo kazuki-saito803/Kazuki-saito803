@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,kubernetes,python,fastapi,flask,docker,terraform,azure" />
 <br>
 
+[![Qiita](https://img.shields.io/badge/Qiita-00c292?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/your_qiita_username)
+
 ## Projects
 
 ### [agent_discussion](https://github.com/kazuki-saito803/agent_discussion.git)
