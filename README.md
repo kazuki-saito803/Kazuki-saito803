@@ -15,14 +15,24 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+- **Languages**: JavaScript, TypeScript, Python, Java
+- **Frameworks**: React, Flask, Pytorch
+- **Tools**: Git, Docker, VS Code, Kubernetes, Fugging Face, Helm, Terraform, Azure
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,kubernetes,python,fastapi,flask,docker,terraform,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,python,fastapi,flask,docker,kubernetes,terraform,azure" />
 <br>
 
+ ## SNS
 [![Qiita](https://img.shields.io/badge/Qiita-00c292?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/your_qiita_username)
+
+## Qualification
+- physical therapist
+- Japan Statistical Society Certificate, Level 2
+- Java SE Bronze
+- Oracle Certified Java Programmer, Silver SE 11
+- Oracle Certified Java Programmer, Gold SE 11
+- JDLA Deep Learning for ENGINEER
+- Fundamental Information Technology Engineer Examination
 
 ## Projects
 
@@ -31,7 +41,6 @@ Description of the project. What it does, main features, and technologies used.
 ### [hiohachiman web site](https://www.hiohachiman.jp)
 Description of the project. What it does, main features, and technologies used.
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
