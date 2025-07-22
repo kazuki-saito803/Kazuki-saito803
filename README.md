@@ -1,19 +1,6 @@
-## Hi there 👋
-## My name is Kazuki Saito
+👋 Hi, I'm Kazuki Saito — a backend engineer with 2+ years of experience in Python & cloud-native technologies.  
+I specialize in building scalable APIs using FastAPI and Flask, and I’m passionate about developer experience and automation.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 - **Languages**: JavaScript, TypeScript, Python, Java
 - **Frameworks**: React, Flask, Pytorch
@@ -25,7 +12,7 @@ Here are some ideas to get you started:
  ## SNS
 [![Qiita](https://img.shields.io/badge/Qiita-00c292?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/your_qiita_username)
 
-## Qualification
+## Certifications
 - physical therapist
 - Japan Statistical Society Certificate, Level 2
 - Java SE Bronze
@@ -41,7 +28,10 @@ Description of the project. What it does, main features, and technologies used.
 ### [hiohachiman web site](https://www.hiohachiman.jp)
 Description of the project. What it does, main features, and technologies used.
 
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+### 🚀 Current Focus
+- Exploring opportunities to work on scalable backend systems at innovative companies.
+- Actively seeking backend engineer positions at product-driven tech firms.
+
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kazuki-saito803&theme=vue-dark&layout=compact" />
