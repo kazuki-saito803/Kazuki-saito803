@@ -10,7 +10,7 @@ I specialize in building scalable APIs using FastAPI and Flask, and I’m passio
 <br>
 
 ## Tech History
-[technical timeline](https://kazuki-saito803.github.io/TechHistory/)
+[Technical Timeline](https://kazuki-saito803.github.io/TechHistory/)
 
  ## SNS
 [![Qiita](https://img.shields.io/badge/Qiita-00c292?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/kaz_saito803)
