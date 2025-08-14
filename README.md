@@ -26,10 +26,12 @@ I specialize in building scalable APIs using FastAPI and Flask, and I'm passiona
 
 ## Projects
 
+### [AICoder](https://github.com/kazuki-saito803/AICoder.git)
+It is a repository that implements Function Calling with an AI Agent using a local LLM.
 ### [agent_discussion](https://github.com/kazuki-saito803/agent_discussion.git)
-Description of the project. What it does, main features, and technologies used.
+This repository compares a prompt-based local LLM with a local LLM fine-tuned using LoRA.
 ### [hiohachiman web site](https://www.hiohachiman.jp)
-Description of the project. What it does, main features, and technologies used.
+This website is built with TypeScript and React, and is deployed and published to Azure Static Web Apps through a CI/CD pipeline.
 
 ### Current Focus
 - Exploring opportunities to work on scalable backend systems at innovative companies.
