@@ -23,7 +23,8 @@
 - Fundamental Information Technology Engineer Examination
 
 ## Projects
-
+### [localrag_toolkit](https://github.com/kazuki-saito803/localrag_toolkit.git)
+A repository of RAG implementations using models provided by Ollama and Hugging Face.
 ### [AICoder](https://github.com/kazuki-saito803/AICoder.git)
 It is a repository that implements Function Calling with an AI Agent using a local LLM.
 ### [agent_discussion](https://github.com/kazuki-saito803/agent_discussion.git)
