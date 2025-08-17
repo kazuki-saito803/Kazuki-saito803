@@ -14,7 +14,7 @@
 [![Qiita](https://img.shields.io/badge/Qiita-00c292?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/kaz_saito803)
 
 ## Certifications
-- physical therapist
+- Physical Therapist
 - Japan Statistical Society Certificate, Level 2
 - Java SE Bronze
 - Oracle Certified Java Programmer, Silver SE 11
