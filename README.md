@@ -4,7 +4,7 @@
 - **Frameworks**: React, Flask, Pytorch
 - **Tools**: Git, Docker, VS Code, Kubernetes, Fugging Face, Helm, Terraform, Azure
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,python,fastapi,flask,docker,kubernetes,terraform,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,java,react,python,fastapi,flask,docker,kubernetes,terraform,azure" />
 <br>
 
 ## Tech History
