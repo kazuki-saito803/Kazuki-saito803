@@ -37,6 +37,7 @@ This website is built with TypeScript and React, and is deployed and published t
 ### Current Focus
 - Exploring opportunities to work on scalable backend systems at innovative companies.
 - Actively seeking backend engineer positions at product-driven tech firms.
+- I am actively engaged in learning English.
 
 ## Activities
 <div align="left"> 
