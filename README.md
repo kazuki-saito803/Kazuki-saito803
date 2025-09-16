@@ -1,4 +1,4 @@
-👋 Hi, I’m Kazuki Saito—an engineer with two years of experience specializing in Python, AI, and cloud-native technologies. I build scalable, maintainable APIs using FastAPI and Flask, and I thrive on optimizing developer experience and workflow automation. I’m passionate about leveraging AI and infrastructure as code to deliver robust and efficient systems.
+👋 Hi, I’m Kazuki Saito—an engineer with two years of experience specializing in Python, AI, and cloud-native technologies. I build scalable, maintainable APIs using FastAPI and Flask, and I thrive on optimizing developer experience and workflow automation. I’m passionate about leveraging AI and infrastructure as code to deliver robust and efficient systems. 
 ## Skills
 - **Languages**: JavaScript, TypeScript, Python, Java
 - **Frameworks**: React, Flask, Pytorch
